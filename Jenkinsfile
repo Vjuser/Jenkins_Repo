@@ -1,4 +1,3 @@
-```groovy
 pipeline {
     agent { label 'test-agent' }
 
@@ -30,4 +29,3 @@ pipeline {
         }
     }
 }
-```
